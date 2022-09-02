@@ -1,0 +1,8 @@
+print('3+4')
+print('The value of 3+4 is',3+4)
+print('The value of 3+4 is',3+4,'.')
+print('The value of 3+4 is',3+4,'.',sep='')
+print('On the first line')
+print('On the second line')
+print('On the first line',end='')
+print('On the second line')
